@@ -1,0 +1,62 @@
+{
+  "resumeData": [
+    [
+      {
+        "firstName": "sathish",
+        "email": "sathish740g@gmail.com",
+        "lastName": "sath",
+        "phoneNumber": "123456789",
+        "website": "www.sath.com",
+        "linkdIn": "",
+        "github": "",
+        "twitter": "",
+        "facebook": "",
+        "instagram": ""
+      },
+      {
+        "college": "SSIT",
+        "school": "RMSA",
+        "c_qualification": "BE",
+        "c_description": "Eng",
+        "c_year_start": "2022-01-05",
+        "c_Year_end": "2022-01-07",
+        "s_qualification": "ssssss",
+        "s_description": "ssssssss",
+        "s_year_start": "2022-01-20",
+        "s_Year_end": ""
+      },
+      {
+        "title": "title",
+        "link": "link",
+        "description": "tttttttt",
+        "title1": "t",
+        "link1": "l",
+        "description1": "d"
+      },
+      {
+        "institution": "tftf",
+        "position": "intern",
+        "description": "tttttttt",
+        "duration": "3",
+        "institution1": "tff",
+        "position1": "fff",
+        "description1": "dss",
+        "duration1": "3"
+      },
+      {
+        "skill1": "skill1",
+        "skill2": "ss",
+        "skill3": "sss",
+        "skill4": "",
+        "skill5": "",
+        "skill6": "",
+        "interest1": "interest1",
+        "interest2": "ss",
+        "interest3": "",
+        "interest4": "",
+        "interest5": "",
+        "interest6": ""
+      }
+    ]
+  ]
+}
